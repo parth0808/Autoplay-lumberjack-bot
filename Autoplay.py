@@ -1,4 +1,4 @@
-#lumberjack
+#lumberjack 2.0
 # pip install pynput
 import autopy as ap
 from collections import deque
